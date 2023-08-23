@@ -2,8 +2,8 @@ package rubo.primeirasemana;
 public class MinhaClasse {
     
     public static void main (String [] args){
-        final String BR = "Brasil"; //final impede a alteração da variavel
-        boolean verdadeira = true;
+        // final String BR = "Brasil"; //final impede a alteração da variavel
+        // boolean verdadeira = true;
 
         String primeiroNome ="Lucas";        
         String segundoNome ="Rubo";
