@@ -11,6 +11,10 @@ javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java
 * ### [Documentação](https://github.com/lucasrubo/trilha-java-basico)
 * ### [Cursos](https://web.dio.me/track/santander-bootcamp-2023-backend-java)
 * ### Exemplos .MD:
+    ~~~java
+    Esta é uma linha de código em Java.
+    ~~~
+
     ~~~javascript
     Esta é uma linha de código em Javascript.
     ~~~
