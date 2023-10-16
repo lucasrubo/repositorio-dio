@@ -1,11 +1,13 @@
+```
+
 ------------------------------------
-|           iPhone                   |
+|           iPhone                  |
 ------------------------------------
 | - player: ReprodutorMusical       |
 | - phone: AparelhoTelefonico       |
 | - browser: NavegadorInternet      |
 ------------------------------------
-| + iPhone()                         |
+| + iPhone()                        |
 | + playMusic()                     |
 | + pauseMusic()                    |
 | + selectMusic()                   |
@@ -34,3 +36,4 @@ Interface NavegadorInternet
 + displayWebPage()
 + addNewTab()
 + refreshPage()
+```
