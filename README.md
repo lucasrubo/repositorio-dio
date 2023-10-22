@@ -6,7 +6,7 @@ Repositório para armazenar todos os códigos do Bootcamp DIO.
 ```
 javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java
 ```
-## Slider
+## Slides
 ```
 https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/ERVAxF7Z_uBIoMMef0ns7EUB-pRDR2J0pSJ4PS29L27_2w?e=2y1vhV
 ```
